@@ -1,6 +1,6 @@
-<h1 align="center"><b> Hello, my name is Express Eat. Ready to give you some delectable meals <b></h1>
-<h1 align="center"><a href='https://tianmeds.github.io/ExpressEat/'>Express Eat</a></h1>
-<p align="center">This is my Recipe Website that i developed. </p>
+<h1 align="center"><b> Tugas Proyek Matakuliah Sistem Informasi<b></h1>
+<h1 align="center"><a href='https://tianmeds.github.io/ExpressEat/'>ResepExpress</a></h1>
+<p align="center">This is a fork of ExpressEat. </p>
 <br>
   <h2><em>Tech Stack of the Website</em></h2>
 <ul>
